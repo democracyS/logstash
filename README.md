@@ -5,6 +5,6 @@ grok pattern
 - Firewall log -> utmfw.conf
 - IPSec VPN log -> utmipsec.conf
 
-2. ScreenShot
+2. Screenshot
 - log.png
 - dashboard.png on kibana
