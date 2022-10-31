@@ -9,5 +9,6 @@ grok pattern
 - log.png
 - dashboard.png on kibana
 
-vpn dashboard
-![vpn_dashboard](https://user-images.githubusercontent.com/117053551/198963302-1fd6e592-a02c-4b45-ad32-0e9e9386e9a8.png)
+VPN Dashboard <br>
+<img src="http://user-images.githubusercontent.com/117053551/198963302-1fd6e592-a02c-4b45-ad32-0e9e9386e9a8.png" height="500"/> 
+
