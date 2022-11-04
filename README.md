@@ -10,5 +10,6 @@ grok pattern
 - dashboard.png on kibana
 
 VPN Dashboard <br>
-<img src="http://user-images.githubusercontent.com/117053551/198963302-1fd6e592-a02c-4b45-ad32-0e9e9386e9a8.png" height="500"/> 
+<img src="http://https://user-images.githubusercontent.com/117053551/199876663-f29601ce-0d52-44e9-9fd8-68bff7c88fad.png" height="500"/> 
+
 
